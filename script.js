@@ -1,2 +1,2 @@
-let message = 'hello, ophohol'
-alert(message)
+let message = 'hello, ophohol';
+alert(message);
