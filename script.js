@@ -1,2 +1,4 @@
-let message = 'hello, ophohol';
-alert(message);
+if ('0') {
+    let load = prompt('lala?', '');
+    console.log(load);
+}

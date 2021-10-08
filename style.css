@@ -1,4 +1,33 @@
 body {
-    background-color: rgba(105, 7, 56, 0.836);
+    background-color: rgba(187, 150, 169, 0.836);
+}
 
+header {
+    position: absolute;
+    height: 80px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+header button {
+    position: absolute;
+    height: 20px;
+    left: 21.51%;
+    right: 25.81%;
+    top: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    position: absolute;
+    height: 51px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
 }
